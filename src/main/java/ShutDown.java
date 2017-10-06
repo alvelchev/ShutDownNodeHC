@@ -26,6 +26,7 @@ public   class ShutDown  {
         Map<Integer, String> customerMap = memberOne.getMap("customers");
         customerMap.put(1, "google");
         customerMap.put(2, "apple");
+        customerMap.put(3, "microsoft");
         
         
         
